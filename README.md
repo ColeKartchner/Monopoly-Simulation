@@ -75,7 +75,7 @@ For detailed results, refer to the [Full Monopoly Results](Full%20Monopoly%20Res
 
 ## Simulation Code
 
-The full simulation code can be found in the [Monopoly Simulation.py](Monopoly%20Simulation.py) file.
+The full simulation code can be found in the [MonopolySimulation.py](MonopolySimulation.py) file.
 
 ## Report
 
