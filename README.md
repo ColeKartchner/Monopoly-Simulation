@@ -83,6 +83,3 @@ For a comprehensive report, see the [Monopoly Strategy Results PDF](Monopoly%20S
 
 Video Demonstration: https://youtu.be/bGmGkjfo8g4
 
----
-
-By providing the link to your GitHub repository, you are offering access to all the detailed results, code, and analysis, which should meet the criteria for most rubrics that assess thoroughness, clarity, and professionalism in reporting and documenting your project.
