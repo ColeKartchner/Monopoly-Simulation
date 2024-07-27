@@ -80,6 +80,7 @@ The full simulation code can be found in the [MonopolySimulation.py](MonopolySim
 ## Report
 
 For a comprehensive report, see the [Monopoly Strategy Results PDF](Monopoly%20Strategy%20Results%20(1).pdf).
+
 Video Demonstration: https://youtu.be/bGmGkjfo8g4
 
 ---
